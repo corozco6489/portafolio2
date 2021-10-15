@@ -28,7 +28,7 @@ body {
 .hero {
   height: 100vh;
   
-  background-image: linear-gradient(to right, rgb(67, 67, 67,0.5) 0%, rgb(0, 0, 0,0.5) 100%),
+  background-image: linear-gradient(to right, rgb(0,0,0,0.5) 0%, rgb(0, 0, 0,0.5) 100%),
     url("../assets/nenad-grujic--b3wxY6jKEk-unsplash.jpg");
   background-repeat: no-repeat;
   background-size: cover;
